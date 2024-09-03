@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.image{
+    border: 5px solid white;
+    width: 100%;
+}
+h1{
+    font-family: "Libre Baskerville";
+}
+.motiv{
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
